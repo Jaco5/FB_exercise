@@ -1,0 +1,11 @@
+When adding trains, administrators should be able to submit the following:
+Train Name
+Destination 
+First Train Time -- in military time
+Frequency -- in minutes
+Code this app to calculate when the next train will arrive; this should be relative to the current time.
+
+//--> take the difference between current time and start time and divide it by the frequency, take the modulus and subtract it from the frequency <--\\
+
+Users from many different machines must be able to view same train times.
+Styling and theme are completely up to you. Get Creative!
