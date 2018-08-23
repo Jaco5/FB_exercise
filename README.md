@@ -11,7 +11,5 @@ ___________________________                _(_))_
 
 Choo Chee! Chaaa!
 
-//pseudocode//
-
-//--> Initialize firebase
+https://Jaco5.github.io/FB_exercise
     
